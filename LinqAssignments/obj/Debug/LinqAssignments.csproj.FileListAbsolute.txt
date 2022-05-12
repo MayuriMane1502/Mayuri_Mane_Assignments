@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.exe.config
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.exe
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.pdb
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.exe
+C:\Users\hp\source\repos\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.pdb
